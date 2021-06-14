@@ -1,0 +1,11 @@
+c:\users\sony\documents\visual studio 2012\Projects\Billar\Billar\bin\Debug\Billar.exe.config
+c:\users\sony\documents\visual studio 2012\Projects\Billar\Billar\bin\Debug\Billar.exe
+c:\users\sony\documents\visual studio 2012\Projects\Billar\Billar\bin\Debug\Billar.pdb
+c:\users\sony\documents\visual studio 2012\Projects\Billar\Billar\obj\Debug\Billar.csprojResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2012\Projects\Billar\Billar\obj\Debug\Billar.Properties.Resources.resources
+c:\users\sony\documents\visual studio 2012\Projects\Billar\Billar\obj\Debug\Billar.csproj.GenerateResource.Cache
+c:\users\sony\documents\visual studio 2012\Projects\Billar\Billar\obj\Debug\Billar.exe
+c:\users\sony\documents\visual studio 2012\Projects\Billar\Billar\obj\Debug\Billar.pdb
+c:\users\sony\documents\visual studio 2012\Projects\Billar\Billar\obj\Debug\Billar.Menu.resources
+c:\users\sony\documents\visual studio 2012\Projects\Billar\Billar\obj\Debug\Billar.Usuario.resources
+c:\users\sony\documents\visual studio 2012\Projects\Billar\Billar\obj\Debug\Billar.Login.resources
